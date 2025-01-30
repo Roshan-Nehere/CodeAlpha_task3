@@ -33,3 +33,6 @@ CSS (Cascading Style Sheets)
 
 JavaScript
 
+## Screenshot of the web page
+![Image Gallery Preview](assets/images/screenshot.png)
+
